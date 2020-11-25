@@ -20,7 +20,7 @@
     <img src="assets/media/cardprojets/projetdashboard.jpg" class="card-img-top" alt="img prensetation projet dashboard">
     <div class="card-body">
         <h5 class="card-title">Projet Dashboard</h5>
-        <p class="card-text">Il m'a été demandé de créer une interface sécuriser par un login, permettant à un administrateur de gérer un inventaire. J'ai dû le faire en utilisant Le CRUD.</p>
+        <p class="card-text">Il m'a été demandé de créer une interface sécurisée par un login, permettant à un administrateur de gérer un inventaire. J'ai dû le faire en utilisant Le CRUD.</p>
         <a href="projets/dashboard/" class="btn btn-primary">Voir Le Projet</a>
     </div>
 </div>
